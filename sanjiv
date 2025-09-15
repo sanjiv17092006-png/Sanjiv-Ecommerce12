@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/sanjiv17092006-png/Sanjiv-Ecommerce12.git
+git add .
+git commit -m "Initial commit - Ecommerce project"
+git push -u origin main
